@@ -1,6 +1,6 @@
 </div>
 <div align="center">
-<h1Discord Rules</h1>
+<h1>Discord Rules</h1>
 </div>
 
 **#1:** You must respect all users, regardless of your liking towards them.
