@@ -1,6 +1,6 @@
 </div>
 <div align="center">
-<h1>Cosmic Shock <hr> Discord Rules</h1>
+<h1Discord Rules</h1>
 </div>
 
 **#1:** You must respect all users, regardless of your liking towards them.
@@ -39,3 +39,5 @@
 > *●  Everything doesn't need to be mentioned in rules you need to use  common sense as well. We expect all the members to be humble and respectful towards each other as well as welcoming towards the new member.*
 >
 > *●  Your presence in this server implies accepting these rules, including all further changes. These changes might me done at any time without notice, it is your responsibility to check for them.*
+
+credits: Cosmic Shock
