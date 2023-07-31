@@ -40,4 +40,3 @@
 >
 > *●  Your presence in this server implies accepting these rules, including all further changes. These changes might me done at any time without notice, it is your responsibility to check for them.*
 
-credits: Cosmic Shock
